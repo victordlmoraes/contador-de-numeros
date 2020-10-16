@@ -37,9 +37,14 @@ No contador, também são feitas algumas verificações para o caso de erros por
 
 ### :iphone: Versão Mobile
 #### Moto G4
-<img src="images/mobile/view-MotoG4.png" width="300" />
+<p align="center">
+  <img src="images/mobile/view-MotoG4.png" width="300" />
+</p>
 
 #### Iphone X
-<img src="images/mobile/view-iPhoneX.png" width="300" />
+<p align="center">
+  <img src="images/mobile/view-iPhoneX.png" width="300" />
+</p>
+
 
 [Voltar ao Topo](#ancora)
